@@ -3,3 +3,5 @@ Ty Smart
 Python Project 4/5 Starter File
 DONKEY
 SHREK
+GINGY
+PHIONA
